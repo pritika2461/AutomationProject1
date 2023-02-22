@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.excelr.project.OrengeHRMProject1NewTest"/>
+       <class name="com.excelr.project.OrengeHRMProject1.LoginPage"/>
+        <class name="com.excelr.project.OrengeHRMProject1.ForgetPassword"/>
+         <class name="com.excelr.project.OrengeHRMProject1.ResetPassword"/>
+           <class name="com.excelr.project.OrengeHRMProject1.Admin1review"/>
+            <class name="com.excelr.project.OrengeHRMProject1.AddUser"/>
+             <class name="com.excelr.project.OrengeHRMProject1.ResetData1"/> 
+             <class name="com.excelr.project.OrengeHRMProject1.DeleteData"/>
+              <class name="com.excelr.project.OrengeHRMProject1.LeaveModule"/>
+              <class name="com.excelr.project.OrengeHRMProject1.Dashboard"/>
+               <class name="com.excelr.project.OrengeHRMProject1.Performance"/>
+                <class name="com.excelr.project.OrengeHRMProject1.PIM"/>
+                           
+             <class name="com.excelr.project.OrengeHRMProject1.Logout"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
